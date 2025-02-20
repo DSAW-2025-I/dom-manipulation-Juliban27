@@ -4,6 +4,7 @@
 # Julian Romero 325312
 
 ## Link deploy
+  https://dsaw-2025-i.github.io/dom-manipulation-Juliban27/
 
 ![Design preview for the Carousel component coding challenge](./assets/mockup.png)
 
